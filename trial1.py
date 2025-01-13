@@ -68,7 +68,7 @@ while True:
         cv2.imshow("img0",img0)
 
         cv2.imshow('Camera Feed', img)
-        # Display the frame
+    
 
 
     cv2.imshow("camera", frame)
