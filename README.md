@@ -27,7 +27,7 @@ pip install ultralytics opencv-python numpy
 ```bash
 project/
 │
-├── your_script.py
+├── trial_1.py
 ├── runs/
 │   └── detect/
 │       └── train/
@@ -41,7 +41,7 @@ project/
 2. Ensure the input video path (papaya_video2.mp4) is valid.
 3. Run the script:
 ```bash
-python your_script.py
+python trial_1.py
 ```
 4. While the video is playing:
      - Press Enter to capture a frame.
